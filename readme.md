@@ -145,9 +145,9 @@ The folders are arranged like the YCB 3d models organization.
 You can buy the real objects using the following links 
 [set 1](https://www.amazon.com/gp/product/B071ZMT9S2), 
 [set 2](https://www.amazon.com/gp/product/B007EA6PKS), 
-[set3](https://www.amazon.com/gp/product/B00H4SKSPS), 
+[set 3](https://www.amazon.com/gp/product/B00H4SKSPS), 
 and 
-[set4](https://www.amazon.com/gp/product/B072M2PGX9). 
+[set 4](https://www.amazon.com/gp/product/B072M2PGX9). 
 
 ## How to cite DOPE 
 
