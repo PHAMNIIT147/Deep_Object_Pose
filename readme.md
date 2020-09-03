@@ -138,7 +138,7 @@ DOPE returns the poses of the objects in the camera coordinate frame.  DOPE uses
 
 ## HOPE 3D Models
 
-![HOPE 3D models rendered in UE4](https://i.imgur.com/a/7c6ULkR.png)
+![HOPE 3D models rendered in UE4](https://i.imgur.com/V6wX64p.png)
 
 We introduce new toy 3d models that you download [here](https://drive.google.com/drive/folders/1jiJS9KgcYAkfb8KJPp5MRlB0P11BStft). 
 The folders are arranged like the YCB 3d models organization. 
